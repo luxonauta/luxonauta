@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Lucas! 👋
 
-<!--
-**luxonauta/luxonauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Better known by my nickname **Luxa** or **Luxonauta**!
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧛‍♂️ I'm currently building the best developer theme in the world! - [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://draculatheme.com/pro) <br>
+📚 Creating a CSS framework - [Luxa CSS](https://luxacss.com) <br>
+🦄 And I am opening my design agency, Devnautas, based in Brazil!
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://luxonauta.com) <br>
+🐦 [Twitter](https://twitter.com/luxonauta) <br>
+📸 [Instagram](https://www.instagram.com/luxonauta) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/luxonauta) <br>
