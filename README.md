@@ -1,16 +1,17 @@
-### Hey, I'm Lucas! 👋🏻
+### 👋🏻 Hey, I'm Lucas!
 
-🪴 Better known by my nickname **Luxa** or **Luxonauta**!
+Better known by my nickname **Luxa** or **Luxonauta**!
 
-### What I'm working on 👨🏻‍💻
+I'm a multidisciplinary front-end developer, designer and illustrator from Brazil.
 
-🧛🏻‍♂️ I'm currently building the best developer theme in the world! - [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://draculatheme.com/pro) <br>
-📚 Creating a CSS framework - [Luxa CSS](https://luxacss.com) <br>
-🦄 And I am opening my design agency, Devnautas, based in Brazil!
+### Work and projects
 
-### Find me elsewhere 🌎
+I'm currently building the best developer theme in the world! - [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://gumroad.com/a/320709843/tPfIDt)
 
-🚀 [Site](https://luxonauta.com) <br>
-🐦 [Twitter](https://twitter.com/luxonauta) <br>
-📸 [Instagram](https://www.instagram.com/luxonauta) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/luxonauta) <br>
+And creating a CSS framework - [Luxa CSS](https://luxacss.com)
+
+### Connect
+
+🌎 [Site](https://luxonauta.com)
+
+🐦 [Twitter](https://twitter.com/luxonauta)
