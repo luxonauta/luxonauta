@@ -6,8 +6,7 @@ I'm a front-end developer, designer and illustrator, experimenting with design d
 
 ### Work (now)
 
-- I'm building the best theme in the world - 🧛🏻‍♂️ [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://gumroad.com/a/320709843/tPfIDt);
-- And helping build Koala to supercharge your outbound - 🐨 [Koala](https://getkoala.com).
+I'm building the best theme in the world - 🧛🏻‍♂️ [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://gumroad.com/a/320709843/tPfIDt).
 
 ### Connect
 
