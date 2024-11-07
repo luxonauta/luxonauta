@@ -2,11 +2,13 @@
 
 But you might know me as Luxa or Luxonauta!
 
-I'm a front-end developer, designer and illustrator, experimenting with design details that feel like magic. 🪄
+I'm a front-end developer, designer and illustrator, experimenting with design details that feel like magic.
 
-### Work (now)
+### Work
 
-I'm building the best theme in the world - 🧛🏻‍♂️ [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://gumroad.com/a/320709843/tPfIDt).
+- I'm building the best theme in the world: [Dracula Theme](https://draculatheme.com) | [Dracula PRO](https://gumroad.com/a/320709843/tPfIDt);
+- Pushing pixels to [Resend](https://resend.com/home) & [React Email](https://react.email);
+- Helping build Koala to supercharge your outbound: [Koala](https://getkoala.com).
 
 ### Connect
 
